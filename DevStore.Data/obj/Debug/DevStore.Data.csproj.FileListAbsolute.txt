@@ -1,0 +1,14 @@
+C:\Users\Ian Ribeiro\source\repos\DevStore-API\DevStore.Data\bin\Debug\DevStore.Data.dll.config
+C:\Users\Ian Ribeiro\source\repos\DevStore-API\DevStore.Data\bin\Debug\DevStore.Data.dll
+C:\Users\Ian Ribeiro\source\repos\DevStore-API\DevStore.Data\bin\Debug\DevStore.Data.pdb
+C:\Users\Ian Ribeiro\source\repos\DevStore-API\DevStore.Data\bin\Debug\DevStore.Domain.dll
+C:\Users\Ian Ribeiro\source\repos\DevStore-API\DevStore.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ian Ribeiro\source\repos\DevStore-API\DevStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ian Ribeiro\source\repos\DevStore-API\DevStore.Data\bin\Debug\DevStore.Domain.pdb
+C:\Users\Ian Ribeiro\source\repos\DevStore-API\DevStore.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ian Ribeiro\source\repos\DevStore-API\DevStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ian Ribeiro\source\repos\DevStore-API\DevStore.Data\obj\Debug\DevStore.Data.csprojAssemblyReference.cache
+C:\Users\Ian Ribeiro\source\repos\DevStore-API\DevStore.Data\obj\Debug\DevStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ian Ribeiro\source\repos\DevStore-API\DevStore.Data\obj\Debug\DevStore.Data.csproj.CopyComplete
+C:\Users\Ian Ribeiro\source\repos\DevStore-API\DevStore.Data\obj\Debug\DevStore.Data.dll
+C:\Users\Ian Ribeiro\source\repos\DevStore-API\DevStore.Data\obj\Debug\DevStore.Data.pdb

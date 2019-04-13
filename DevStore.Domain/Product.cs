@@ -13,7 +13,7 @@ namespace DevStore.Domain
 
         public string Title { get; set; }
 
-        public decimal price { get; set; }
+        public decimal Price { get; set; }
 
         public DateTime AcquireDate { get; set; }
 
